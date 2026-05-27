@@ -1,0 +1,118 @@
+--- 1_10_Process_Models.txt ---
+As-Is Workflow: Manual Phone Call -> Paper Appointment Book -> Walk-in Queue -> Triage.
+To-Be Workflow: Online Portal -> Automated Slot Allocation -> Digital Queue Check-in -> AI-Assisted Triage.
+
+
+--- 1_13_Risk_Assessment.txt ---
+Risk Register:
+1. Data Privacy Breach - High Impact, Low Likelihood.
+2. System Downtime during Transition - Medium Impact, Medium Likelihood.
+3. Resistance from Medical Staff - High Impact, Medium Likelihood.
+
+SWOT Analysis:
+STRENGTHS: Advanced medical facilities, dedicated staff.
+WEAKNESSES: Manual scheduling, long wait times.
+OPPORTUNITIES: Digital transformation, improved patient loyalty.
+THREATS: Competition from fully digital clinics.
+
+
+--- 1_14_Risk_Mitigation_Plan.txt ---
+Mitigation Strategies:
+- Data Privacy: Implement End-to-End Encryption and HIPAA compliance audits.
+- System Downtime: Phase the rollout department-by-department; keep manual logs as backup (Contingency).
+- Staff Resistance: Conduct training workshops and appoint 'digitization champions'.
+
+
+--- 1_15_Key_Findings.txt ---
+- Finding 1: Cardiology has the highest bottleneck during 10 AM - 2 PM.
+- Finding 2: 60% of cancellations stem from scheduling conflicts.
+
+
+--- 1_16_Key_Recommendations.txt ---
+- Recommendation 1: Deploy automated shift rotation for peak hours.
+- Recommendation 2: Launch patient mobile app for remote check-ins.
+
+
+--- 1_1_Final_Presentation_BA_Report.txt ---
+SLIDE 1: Title
+Enhancing Operational Efficiency at HealthFirst Care
+By: Coursera Learner
+
+SLIDE 2: Executive Summary
+- High patient dissatisfaction due to 60+ min wait times.
+- Proposed solution: Automated scheduling and resource optimization.
+- Expected outcome: 30% reduction in delays.
+
+SLIDE 3: Business Objectives
+- Reduce wait times.
+- Optimize resource usage.
+- Improve patient satisfaction scores.
+
+SLIDE 4: Requirements Overview (BRD/RTM)
+- Functional: Online booking, shift tracker.
+- Non-functional: 99.9% uptime, data security.
+
+SLIDE 5: Stakeholder Analysis
+- Key influencers: Hospital Board, Clinical Leads.
+- Impacted users: Patients, Admin staff.
+
+SLIDE 6: As-Is vs To-Be Process
+- From fragmented manual logs to unified digital orchestration.
+
+SLIDE 7: Data Insights
+- [Ref: HealthFirst_Data_Analysis.xlsx]
+- Cardiology shows peak congestion; Radiology is underutilized by 20%.
+
+SLIDE 8: Risk Management
+- Mitigation plan for data privacy and technical adoption.
+
+SLIDE 9: Conclusion
+- Strategic digital shift is non-negotiable for HealthFirst Care's growth.
+
+
+
+--- 1_2_Executive_Summary.txt ---
+Problem Overview: HealthFirst Care is facing operational bottlenecks leading to patient dissatisfaction.
+Key Insights: Peak appointment times correlate with 40% higher wait times in Cardiology. Resource utilization is fragmented.
+Recommended Actions: Implement automated scheduling, optimize staff allocation based on peak hour data, and introduce real-time feedback loops.
+
+
+--- 1_3_Introduction.txt ---
+Opportunity: Streamlining clinical workflows to improve throughput and patient experience.
+Approach: Using data-driven analysis of patient logs and resource allocation records.
+Hypothesis: Automating manual check-ins will reduce front-desk congestion by 25%.
+
+
+--- 1_4_Business_Objectives.txt ---
+1. Reduce average patient wait time by 30%.
+2. Improve resource utilization efficiency across departments.
+3. Increase patient satisfaction scores to >8.5/10.
+4. Automate 90% of appointment bookings.
+
+
+--- 1_5_BRD.txt ---
+Problem Statement: High wait times due to manual scheduling.
+Key Requirements: Automated scheduling portal, Real-time queue management, Mobile notifications.
+Constraints: Compliance with healthcare data privacy laws, Integration with existing EHR.
+Acceptance Criteria: System handles 1000+ bookings daily with <1% error rate.
+
+
+--- 1_6_RTM.txt ---
+ID, Description, Priority, Stakeholders, Objective, Related Data, Status
+RQ1, Online Portal, Must, Patients, Obj4, appointments.csv, Completed
+RQ2, Resource Tracker, Should, Management, Obj2, resources.csv, In-Progress
+RQ3, Feedback Loop, Must, Patients, Obj3, feedback.csv, Completed
+
+
+--- 1_7_Stakeholder_Analysis.txt ---
+Stakeholder, Influence, Interest, Engagement Strategy
+Doctors, High, High, Collaborative workshops and UI feedback.
+Patients, Low, High, Surveys and ease-of-use focus.
+IT Staff, High, Medium, Technical reviews and documentation.
+
+
+--- 1_8_Scope_Management.txt ---
+In-Scope: Scheduling automation, dashboard analytics, risk planning.
+Out-Scope: Physical clinic expansion, payroll system replacement.
+
+
