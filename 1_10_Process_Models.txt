@@ -1,0 +1,2 @@
+As-Is Workflow: Manual Phone Call -> Paper Appointment Book -> Walk-in Queue -> Triage.
+To-Be Workflow: Online Portal -> Automated Slot Allocation -> Digital Queue Check-in -> AI-Assisted Triage.

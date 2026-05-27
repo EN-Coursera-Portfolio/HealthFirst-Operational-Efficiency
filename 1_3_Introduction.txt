@@ -1,0 +1,3 @@
+Opportunity: Streamlining clinical workflows to improve throughput and patient experience.
+Approach: Using data-driven analysis of patient logs and resource allocation records.
+Hypothesis: Automating manual check-ins will reduce front-desk congestion by 25%.

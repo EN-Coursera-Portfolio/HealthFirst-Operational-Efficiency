@@ -1,0 +1,4 @@
+1. Reduce average patient wait time by 30%.
+2. Improve resource utilization efficiency across departments.
+3. Increase patient satisfaction scores to >8.5/10.
+4. Automate 90% of appointment bookings.

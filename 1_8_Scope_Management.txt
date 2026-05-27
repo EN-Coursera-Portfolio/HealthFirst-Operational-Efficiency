@@ -1,0 +1,2 @@
+In-Scope: Scheduling automation, dashboard analytics, risk planning.
+Out-Scope: Physical clinic expansion, payroll system replacement.

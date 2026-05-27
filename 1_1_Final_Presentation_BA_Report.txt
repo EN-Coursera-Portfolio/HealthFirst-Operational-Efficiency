@@ -1,0 +1,35 @@
+SLIDE 1: Title
+Enhancing Operational Efficiency at HealthFirst Care
+By: Coursera Learner
+
+SLIDE 2: Executive Summary
+- High patient dissatisfaction due to 60+ min wait times.
+- Proposed solution: Automated scheduling and resource optimization.
+- Expected outcome: 30% reduction in delays.
+
+SLIDE 3: Business Objectives
+- Reduce wait times.
+- Optimize resource usage.
+- Improve patient satisfaction scores.
+
+SLIDE 4: Requirements Overview (BRD/RTM)
+- Functional: Online booking, shift tracker.
+- Non-functional: 99.9% uptime, data security.
+
+SLIDE 5: Stakeholder Analysis
+- Key influencers: Hospital Board, Clinical Leads.
+- Impacted users: Patients, Admin staff.
+
+SLIDE 6: As-Is vs To-Be Process
+- From fragmented manual logs to unified digital orchestration.
+
+SLIDE 7: Data Insights
+- [Ref: HealthFirst_Data_Analysis.xlsx]
+- Cardiology shows peak congestion; Radiology is underutilized by 20%.
+
+SLIDE 8: Risk Management
+- Mitigation plan for data privacy and technical adoption.
+
+SLIDE 9: Conclusion
+- Strategic digital shift is non-negotiable for HealthFirst Care's growth.
+

@@ -1,0 +1,2 @@
+- Recommendation 1: Deploy automated shift rotation for peak hours.
+- Recommendation 2: Launch patient mobile app for remote check-ins.

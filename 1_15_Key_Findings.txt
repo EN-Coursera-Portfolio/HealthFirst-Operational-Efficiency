@@ -1,0 +1,2 @@
+- Finding 1: Cardiology has the highest bottleneck during 10 AM - 2 PM.
+- Finding 2: 60% of cancellations stem from scheduling conflicts.

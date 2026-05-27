@@ -1,0 +1,4 @@
+Mitigation Strategies:
+- Data Privacy: Implement End-to-End Encryption and HIPAA compliance audits.
+- System Downtime: Phase the rollout department-by-department; keep manual logs as backup (Contingency).
+- Staff Resistance: Conduct training workshops and appoint 'digitization champions'.

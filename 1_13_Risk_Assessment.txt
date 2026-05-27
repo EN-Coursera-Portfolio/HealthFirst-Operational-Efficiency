@@ -1,0 +1,10 @@
+Risk Register:
+1. Data Privacy Breach - High Impact, Low Likelihood.
+2. System Downtime during Transition - Medium Impact, Medium Likelihood.
+3. Resistance from Medical Staff - High Impact, Medium Likelihood.
+
+SWOT Analysis:
+STRENGTHS: Advanced medical facilities, dedicated staff.
+WEAKNESSES: Manual scheduling, long wait times.
+OPPORTUNITIES: Digital transformation, improved patient loyalty.
+THREATS: Competition from fully digital clinics.

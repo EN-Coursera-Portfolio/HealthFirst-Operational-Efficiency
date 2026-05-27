@@ -1,0 +1,4 @@
+Stakeholder, Influence, Interest, Engagement Strategy
+Doctors, High, High, Collaborative workshops and UI feedback.
+Patients, Low, High, Surveys and ease-of-use focus.
+IT Staff, High, Medium, Technical reviews and documentation.
